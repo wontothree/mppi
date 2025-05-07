@@ -1,1 +1,1 @@
-# ROS2 Foxy Workspace of Car Path Planner with MPPI
+# MPPI ROS2 Foxy Workspace
