@@ -1,1 +1,1 @@
-# MPPI Ros2 Foxy Workspace
+# MPPI Workspace
